@@ -1,0 +1,4 @@
+# Per-run report (contains local file paths)
+steam_download_doctor.log
+__pycache__/
+*.pyc
